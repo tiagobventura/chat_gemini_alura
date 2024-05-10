@@ -1,2 +1,2 @@
 # chat_gemini_alura
-Chat Gemini - Imersão Alura
+Chat Gemini - Imersão Alura LLM
